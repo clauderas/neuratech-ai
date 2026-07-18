@@ -1,0 +1,6 @@
+{
+  "name": "NeuraTech AI",
+  "description": "Site vitrine professionnel et moderne de NeuraTech AI, expert en intelligence artificielle et automatisation des processus métier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

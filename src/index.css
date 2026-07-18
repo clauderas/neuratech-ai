@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Space Grotesk", sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  
+  /* Redefined colors for the Professional Polish theme */
+  --color-brand-deep: #020617; /* Slate-950 */
+  --color-brand-dark: #0f172a; /* Slate-900 */
+  --color-brand-card: #1e293b; /* Slate-800 */
+  --color-brand-accent-blue: #4f46e5; /* Indigo-600 */
+  --color-brand-accent-purple: #6366f1; /* Indigo-500 */
+  --color-brand-accent-cyan: #22d3ee; /* Cyan-400 */
+}
